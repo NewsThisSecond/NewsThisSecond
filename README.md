@@ -1,4 +1,4 @@
-## WOW... Your Not Suppose To Be Here...
+## Scheduled Maintenance 
 
 ### NewsThisSecond Service Status
 
@@ -6,15 +6,15 @@ This page shows the staus of NewsThisSecond services
 
 ### NewsThisSecond.co.uk
 ```markdown
-Online
+NewsThisSecond is currently undergoing website maintenance.
 ```
 ### NewsThisSecond.com
 ```markdown
-Online
+NewsThisSecond is currently undergoing website maintenance.
 ```
 ### NewsThisSecond Android App
 ```markdown
-Online
+Offline
 ```
 ### NewsThisSecond Newswire
 ```markdown
@@ -22,5 +22,5 @@ Online
 ```
 ### NewsThisSecond Email
 ```markdown
-Online
+NewsThisSecond is currently undergoing website maintenance.
 ```
